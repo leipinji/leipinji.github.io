@@ -4,8 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This blog is maintained by Pinji.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I got my B.S and Ph.D from Wuhan University, China.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+My research interests focus on genetic and epigenetic changes in tumor initiation, progression and metastasis.
+
+I decided to combine multi-omics and clinical data to identify potential targets for cancer therapies.
+
+
