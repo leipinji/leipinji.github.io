@@ -6,7 +6,7 @@ Pinji's personal blog for collection of bioinformatics data analysis methods, bi
 baseurl: "" 
 url: "http://leipinji.github.io" # the base hostname & protocol for your site
 twitter_username: LeiLei_Pinji
-github_username:  leipinji
+github_username: leipinji
 
 # Build settings
 markdown: kramdown
