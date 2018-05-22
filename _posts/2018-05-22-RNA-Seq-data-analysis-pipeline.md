@@ -89,4 +89,4 @@ p value adjust method Benjamini and Hochberg's algorithm
 
 ## References
 
-![https://web.stanford.edu/class/bios221/labs/rnaseq/lab_4_rnaseq.html](https://web.stanford.edu/class/bios221/labs/rnaseq/lab_4_rnaseq.html)
+[https://web.stanford.edu/class/bios221/labs/rnaseq/lab_4_rnaseq.html](https://web.stanford.edu/class/bios221/labs/rnaseq/lab_4_rnaseq.html)
