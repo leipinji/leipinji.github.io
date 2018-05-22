@@ -37,6 +37,7 @@ I suggest choose this cutoff as at least 10 counts per million on any gene in al
 
 `
 keep<-rowSums(cpm(cds) >=10) >=2
+
 cds<-cds[keep,]
 `
 
@@ -44,6 +45,7 @@ cds<-cds[keep,]
 
 `
 cds$samples$lib.size<-colSums(cds$counts)
+
 cds$samples
 `
 ## Step 5: normalizing the data
@@ -61,6 +63,7 @@ cds<-calNormFactors(cds)
 
 `
 plotMDS(cds,method='bcv',col=as.numeric(cds$samples$group))
+
 legend("topleft",as.character(unique(cds$samples$group)),pch=20)
 `
 
@@ -80,6 +83,7 @@ cds<-estimateTagwiseDisp(cds)
 
 `
 results<-exactTest(cds,pair=c('Control','Treat'))
+
 topTags(results,n=20)
 `
 
