@@ -11,7 +11,7 @@ layout: post
 * more than 2.5 petabytes of genomic data
 * 11000 patients
 * 7 different data types
-* 
+* 2006-2017 
 
 # GDC data portal
 
