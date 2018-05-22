@@ -6,12 +6,9 @@ layout: post
 # edgeR package for RNA-Seq data analysis
 
 
-edgeR works on a table with integer read counts.
-
+>edgeR works on a table with integer read counts.
 rows corresponding to genes and columns to independent conditions
-
 edgeR store data in a simple list-based object called a DEGList.
-
 The philosophy of edgeR is that all the information should be store in a single variable.
 
 
@@ -52,8 +49,9 @@ cds$samples
 `
 5. normalizing the data
 
-`edgeR is concerned with differential expression analysis rather than with the quantification of expression levels. It is concerned with relative changes in expression levels between conditions, but not directly with estimating absolute expression levels.
-`
+>edgeR is concerned with differential expression analysis rather than with the quantification of expression levels. It is concerned with relative changes in expression levels between conditions, but not directly with estimating absolute expression levels.
+
+
 `
 cds<-calNormFactors(cds)
 `
