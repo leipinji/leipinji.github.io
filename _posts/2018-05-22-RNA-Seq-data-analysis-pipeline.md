@@ -25,7 +25,7 @@ The philosophy of edgeR is that all the information should be store in a single 
 ## Step 3: DEGlist  
 
 
-	cds<-DEGList(counts=count,group=group)
+	cds<-DGEList(counts=count,group=group)
 
 
 ## Step 4: filtering the data
@@ -79,7 +79,7 @@ I suggest choose this cutoff as at least 10 counts per million on any gene in al
 p value adjust method Benjamini and Hochberg's algorithm
 
 
-	degs<-decideTestsDEG(results,adjust.method='BH',p.value=0.05)
+	degs<-decideTestsDGE(results,adjust.method='BH',p.value=0.05)
 	summary(degs)
 
 
