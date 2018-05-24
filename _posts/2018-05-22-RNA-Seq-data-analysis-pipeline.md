@@ -48,7 +48,7 @@ I suggest choose this cutoff as at least 10 counts per million on any gene in al
 > edgeR is concerned with differential expression analysis rather than with the quantification of expression levels. It is concerned with relative changes in expression levels between conditions, but not directly with estimating absolute expression levels.
 
 
-	cds<-calNormFactors(cds)
+	cds<-calcNormFactors(cds)
 
 ## Step 6: data exploration(optional)
 
