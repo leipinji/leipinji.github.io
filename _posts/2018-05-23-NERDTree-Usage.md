@@ -20,3 +20,10 @@ pathogen makes it very easy to install vim plugins, the way to install pathogen 
 
 
 # Common command
+
+## creating a new file or folder in vim using NERDTree
+
+	press `m` to open a menu with a list of actions
+
+![]("../figure/NERDTree-m.png")
+
