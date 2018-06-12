@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NERDTree Usage"
+title: NERDTree Usage
 ---
 
 # Install Pathogen
@@ -25,5 +25,5 @@ pathogen makes it very easy to install vim plugins, the way to install pathogen 
 
 	press `m` to open a menu with a list of actions
 
-![command]("../figure/NERDTree-m.png")
+![command](../figure/NERDTree-m.png)
 
