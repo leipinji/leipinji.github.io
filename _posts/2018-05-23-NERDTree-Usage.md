@@ -23,7 +23,17 @@ pathogen makes it very easy to install vim plugins, the way to install pathogen 
 
 ## creating a new file or folder in vim using NERDTree
 
-	press `m` to open a menu with a list of actions
+	pressing `m` to open a menu with a list of actions.
 
 ![command](../figure/NERDTree-m.png)
 
+	pressing `a` to add a new childnode. A childnode can be a file or folder depending if you add a forward slash (/) or not.
+
+	
+## open a file
+
+	pressing `Ctrl + w` will change between different bookmark
+
+	pressing `s` will open a file or folder in vsplit
+
+	pressing `o` will open a file or folder in hsplit
