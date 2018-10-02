@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<meta charset="UTF-8">
+<html>
+	<body>
+		<h3><big>Ubuntu adduser</big></h3>
+		<pre>
+		To add a user use <big color='red'>useradd</big> command, and do not use <big color='red'>adduser</big> command
+		To add a user you must use <big>sudo</big> command
+		<code>$ sudo useradd username -m -s /bin/bash</code>
+        使用 useradd 命令添加用户时，如果使用默认的 useradd 命令，新建的用户将是一个三无用户。没有家目录，没有密码，没有系统shell。
+	<code>$ sudo useradd -m -d /home -s /bin/bash -p passwd</code>
+    新建用户的过程中系统会要求输入新用户的密码，也可以用-p命令直接设置。其他附加的信息可以不用填写，直接enter 键即可。
+    给新建用户添加超级用户权限：
+    使用 visudo ：sudo visudo
+    如果不使用visudo会很危险。
+    找到下面这一行：root    ALL=（ALL：ALL）ALL
+    在这行下面添加如下的信息：newuser    ALL=（ALL：ALL）ALL
+    检查新建的 sudoers 文件格式是否正确：sudo visudo -c 
+		</pre>
+		</body>
+	</html>
