@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "R inflection point"
-author: "Pinji Lei"
-date: "10/2/2018"
-output: html_document
 ---
 
 ```{r,echo=TRUE,message=TRUE}
