@@ -3,6 +3,8 @@ layout: post
 title: "R inflection point"
 ---
 
+# R inflection point
+
 ```{r,echo=TRUE,message=TRUE}
 x<-sample(300:1000,size = 200)
 x_rank<-rank(x)
