@@ -16,6 +16,6 @@ Normal lymphatic function relies on a balance of fluid between the lymphatic ves
 
 # MRSA: Methicillin Resistant *Staphylococcus Aureus*
 
-MRSA infection is caused by a type of staph bacteria that is become resistant to many of the antibiotics used to treat ordinary staph infections.
 
-MRSA Infection[MRSA infection](https://www.mayoclinic.org/diseases-conditions/mrsa/symptoms-causes/syc-20375336)
+[MRSA infection](https://www.mayoclinic.org/diseases-conditions/mrsa/symptoms-causes/syc-20375336) is caused by a type of staph bacteria that is become resistant to many of the antibiotics used to treat ordinary staph infections.
+
