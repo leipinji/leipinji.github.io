@@ -15,4 +15,7 @@ Lymph is a protein-rich fluid that moves throughout your body in lymph vessels. 
 Normal lymphatic function relies on a balance of fluid between the lymphatic vessels and blood stream. Lymphatic muscle cells are critical for this fluid transport in that they contract and squeeze lymphatic vessels to move the fluid toward blood circulation. When this process is interrupted due to genetic abnormalities or physical damage to lymphatic vessels, lymphedema can occur.
 
 # MRSA: Methicillin Resistant *Staphylococcus Aureus*
- 
+
+MRSA infection is caused by a type of staph bacteria that is become resistant to many of the antibiotics used to treat ordinary staph infections.
+
+MRSA Infection[MRSA infection](https://www.mayoclinic.org/diseases-conditions/mrsa/symptoms-causes/syc-20375336)
