@@ -19,3 +19,10 @@ Normal lymphatic function relies on a balance of fluid between the lymphatic ves
 
 [MRSA infection](https://www.mayoclinic.org/diseases-conditions/mrsa/symptoms-causes/syc-20375336) is caused by a type of staph bacteria that is become resistant to many of the antibiotics used to treat ordinary staph infections.
 
+
+# D2-40 lymphatic endothelial marker
+
+D2-40 is a novel monoclonal antibody target an Mr 40,000 O-linked sialoglycoprotein which is highly expressed in lymphatic endothelial cells.
+
+[D2-40 a bio-marker for lymphatic endothelial](https://www.ncbi.nlm.nih.gov/pubmed/11950918)
+ 
